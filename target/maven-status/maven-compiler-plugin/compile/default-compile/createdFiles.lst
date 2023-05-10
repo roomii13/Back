@@ -1,0 +1,7 @@
+Service\UsuarioService.class
+Repository\UsuarioR.class
+Model\Usuario.class
+Service\UsuarioService$RespuestaServidor.class
+com\backend\demo\DemoApplication.class
+Service\UsuarioService$Credenciales.class
+Controller\UsuarioControlador.class
